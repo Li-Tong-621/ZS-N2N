@@ -7,7 +7,7 @@
 
   
 ## 🚀 Results
-- You can directly download the results of ZS-N2N on CC, PolyU, FMDD or SIDD datasets here.
+- You can directly download the results of ZS-N2N on CC, PolyU, FMDD or SIDD datasets [here](https://github.com/Li-Tong-621/ZS-N2N/releases/tag/1.0).
 
 
 ## 🔥 Quick Start
