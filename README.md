@@ -1,8 +1,13 @@
 # ZS-N2N
-The reproduced code for ZS-N2N
 
+## ☔ Information
+- This is the reproduced code for ZS-N2N.
+- Welcome to visit [https://github.com/Li-Tong-621/Tool-for-SSSID](https://github.com/Li-Tong-621/Tool-for-SSSID) for more codes.
+- If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research. Thank you.
+
+  
 ## 🚀 Results
-- You can directly download the results on CC, PolyU, FMDD or SIDD datasets here.
+- You can directly download the results of ZS-N2N on CC, PolyU, FMDD or SIDD datasets here.
 
 
 ## 🔥 Quick Start
